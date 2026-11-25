@@ -71,7 +71,7 @@
 - Lebenlang LBL0380 heater
 - Lehmann LHOHC-2013C electric radiator
 - Livn Arosa electric fireplace
-- Magnum MRC floor heating (2 variants)
+- Magnum MRC floor heating (2 variants), S28 floor heating thermostat
 - Manissa OWS-02A towel rail
 - Mellerware Comfy electric radiator (tested with Medium 1200W)
 - Modern Ember Vibrance XH-BG-15W/30WZKWIFI-10 electric fireplace
